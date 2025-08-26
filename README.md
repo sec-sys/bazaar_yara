@@ -1,0 +1,1 @@
+Generated Yara Storage - Bazaar
